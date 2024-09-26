@@ -58,6 +58,26 @@ A simple Python-based shopping cart allowing users to add items and calculate to
 Tech stack: Python, OOP.
 For more of my projects, check out my repositories.
 
+
+### 4. ETL Project: Acquiring and Processing Information on the World's Largest Banks
+
+## Project Overview
+
+This project is part of the **Cloud Data Engineering Roadmap** and focuses on building an **ETL (Extract, Transform, Load) pipeline** to acquire, process, and analyze information on the world's largest banks. The project covers the full ETL workflow, from extracting raw data, transforming it, and loading it into a database, along with logging and query functions.
+
+## Project Tasks
+
+* Task 1: Logging function
+* Task 2 : Extraction of data
+* Task 3 : Transformation of data
+* Task 4: Loading to CSV
+* Task 5: Loading to Database
+* Task 6: Function to Run queries on Database
+* Task 7: Verify log entries
+
+
+
+
 ## 🌱 Current Learning Path
 Deepening my knowledge of Deep Learning with TensorFlow and Keras.
 Exploring Natural Language Processing (NLP) with SpaCy and NLTK. 
