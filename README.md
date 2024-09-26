@@ -50,8 +50,8 @@ Here are some of my highlighted projects:
 ### 1. Library Management System
 A system that manages book borrowing, returning, and inventory tracking using Python.
 Tech stack: Python, Pandas, OOP.
-### 2. Customer Order Processing System for an Online Bookstore
-A basic order processing system handling customer orders for an online bookstore.
+### 2. Customer Order Processing System for an Online Coffee Shop
+A basic order processing system handling customer orders for an online Coffee Shop.
 Tech stack: Python, SQLite.
 ### 3. Shopping Cart System
 A simple Python-based shopping cart allowing users to add items and calculate total costs.
