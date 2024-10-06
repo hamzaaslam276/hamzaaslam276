@@ -23,7 +23,8 @@ I'm a Data Scientist with a passion for uncovering insights from data and buildi
 2. HackerRank Certified Problem Soliving Python(Basic)
 3. Lets Upgrade Certified Python Bootcamp
 4. Umedy Certified Python Course in Depth
-5. UniAthena Certified Basics of Data Science  
+5. UniAthena Certified Basics of Data Science
+6. UniAthena Certified Basics of Python 
 
 ### Visualization:
 1. Matplotlib
