@@ -18,6 +18,13 @@ I'm a Data Scientist with a passion for uncovering insights from data and buildi
 4. TensorFlow - Deep learning framework.
 5. Keras - High-level neural networks API, integrated with TensorFlow.
 
+## Certifications 📜
+1. HackerRank Certified Python Basic
+2. HackerRank Certified Problem Soliving Python(Basic)
+3. Lets Upgrade Certified Python Bootcamp
+4. Umedy Certified Python Course in Depth
+5. UniAthena Certified Basics of Data Science  
+
 ### Visualization:
 1. Matplotlib
 2. Seaborn
