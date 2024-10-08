@@ -46,11 +46,15 @@ I'm a Data Scientist with a passion for uncovering insights from data and buildi
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaslam276&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaaslam276&exclude_repo=exclude_this_repo&hide=Jupyter%20Notebook&layout=compact" />
 
 
 ## 📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzaaslam276&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=hamzaaslam276&exclude_repo=exclude_this_repo&hide=Jupyter%20Notebook&layout=compact" /> </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamzaaslam276&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
+
 
 ## 💼 Projects
 Here are some of my highlighted projects:
