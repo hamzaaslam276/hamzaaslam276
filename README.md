@@ -17,6 +17,7 @@ I'm a Data Scientist with a passion for uncovering insights from data and buildi
 3. Scikit-learn - Machine learning library.
 4. TensorFlow - Deep learning framework.
 5. Keras - High-level neural networks API, integrated with TensorFlow.
+6. Power BI: Interactive data visualization and business intelligence.
 
 ## Certifications 📜
 1. HackerRank Certified Python Basic
@@ -87,7 +88,32 @@ This project is part of the **Cloud Data Engineering Roadmap** and focuses on bu
 * Task 6: Function to Run queries on Database
 * Task 7: Verify log entries
 
+### 5. EDA Project: Exploratory Data Analysis on Supermarket Sales Dataset 🌟
+📊 Objective:
+This project focused on uncovering actionable insights from supermarket sales data to empower management with data-driven decision-making. By analyzing customer behavior, branch performance, payment trends, and other key metrics, the aim was to optimize operations and boost profitability.
 
+🔍 Key Highlights:
+1️⃣ Data Understanding: Imported and examined the dataset for structure, missing values, and key statistics using Python libraries like Pandas.
+2️⃣ Data Cleaning: Ensured data quality by addressing null values, reformatting columns, and removing duplicates.
+3️⃣ Exploratory Data Analysis (EDA):
+
+Conducted in-depth analysis of sales by gender, branch, payment methods, and customer demographics.
+Studied relationships between sales, ratings, and other key factors.
+4️⃣ Data Visualization:
+Created impactful visualizations using Matplotlib and Seaborn to convey insights effectively:
+📌 Pie Chart: Sales distribution by branch.
+📌 Bar Chart: Popularity of payment methods.
+📌 Heatmap: Correlation analysis of numerical features.
+📌 Boxplot: Sales distribution by gender.
+🔑 Insights Gained:
+✅ Identified the branch with the highest revenue contribution.
+✅ Uncovered the most popular payment method among customers.
+✅ Analyzed how gender and age groups influence spending patterns.
+✅ Explored how customer ratings correlate with sales performance.
+
+💼 Tools Used:
+Python (Pandas, Matplotlib, Seaborn)
+Data Analysis Techniques
 
 
 ## 🌱 Current Learning Path
