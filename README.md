@@ -31,7 +31,8 @@ I'm a Data Scientist with a passion for uncovering insights from data and buildi
 1. Matplotlib
 2. Seaborn
 3. Plotly
-
+4. Power BI
+5. Tableau
 
 ## 🖥️ Programming Languages
 
