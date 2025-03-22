@@ -4,10 +4,15 @@ I'm a Data Scientist with a passion for uncovering insights from data and buildi
 
 ## 🔍 About Me
 💻 Data Science Enthusiast with experience in Machine Learning, Data Analytics, and Data Visualization.
+
 👨‍🎓 Completed an Online Python Bootcamp from LetsUpgrade.
+
 🌱 Currently expanding my knowledge in Deep Learning and Natural Language Processing.
+
 🤝 Open to collaborating on interesting Data Science and Open-Source projects.
-🎯 Currently working on a Library Management System and an Online Bookstore Customer Order Processing System using Python.
+
+🎯 Currently working on Machine Learning and NLP projects.
+
 🌐 Check out my projects below and on GitHub.
 
 ## 🚀 Skills & Tools
@@ -18,6 +23,8 @@ I'm a Data Scientist with a passion for uncovering insights from data and buildi
 4. TensorFlow - Deep learning framework.
 5. Keras - High-level neural networks API, integrated with TensorFlow.
 6. Power BI: Interactive data visualization and business intelligence.
+7. NLTK - Natural Language Processing.
+8. SpaCy - NLP library for efficient text processing.
 
 ## Certifications 📜
 1. HackerRank Certified Python Basic
@@ -59,60 +66,37 @@ I'm a Data Scientist with a passion for uncovering insights from data and buildi
 
 
 ## 💼 Projects
+
 Here are some of my highlighted projects:
 
-### 1. Library Management System
-A system that manages book borrowing, returning, and inventory tracking using Python.
+### 1. Customer Churn Prediction
+
+A machine learning model to predict customer churn using Logistic Regression and Random Forest.
+Tech stack: Python, Scikit-learn, Pandas.
+
+### 2. Exploratory Data Analysis (EDA) on Supermarket Sales
+
+Analyzed customer behavior, payment trends, and sales insights to optimize business decisions.
+Tech stack: Python, Pandas, Matplotlib, Seaborn.
+
+### 3. Sentiment Analysis on Product Reviews
+
+NLP model that classifies customer reviews as positive, negative, or neutral.
+Tech stack: Python, NLTK, SpaCy, Scikit-learn.
+
+### 4. ETL Project: World's Largest Banks Data Processing
+
+Built an ETL pipeline to acquire, process, and analyze banking data.
+Tech stack: Python, Pandas, SQL.
+
+### 5. Library Management System
+
+A system that manages book borrowing, returning, and inventory tracking.
 Tech stack: Python, Pandas, OOP.
-### 2. Customer Order Processing System for an Online Coffee Shop
-A basic order processing system handling customer orders for an online Coffee Shop.
-Tech stack: Python, SQLite.
-### 3. Shopping Cart System
-A simple Python-based shopping cart allowing users to add items and calculate total costs.
-Tech stack: Python, OOP.
+
 For more of my projects, check out my repositories.
 
-
-### 4. ETL Project: Acquiring and Processing Information on the World's Largest Banks
-
-## Project Overview
-
-This project is part of the **Cloud Data Engineering Roadmap** and focuses on building an **ETL (Extract, Transform, Load) pipeline** to acquire, process, and analyze information on the world's largest banks. The project covers the full ETL workflow, from extracting raw data, transforming it, and loading it into a database, along with logging and query functions.
-
-## Project Tasks
-
-* Task 1: Logging function
-* Task 2 : Extraction of data
-* Task 3 : Transformation of data
-* Task 4: Loading to CSV
-* Task 5: Loading to Database
-* Task 6: Function to Run queries on Database
-* Task 7: Verify log entries
-
-### 5. EDA Project: Exploratory Data Analysis on Supermarket Sales Dataset 🌟
-📊 Objective:
-This project focused on uncovering actionable insights from supermarket sales data to empower management with data-driven decision-making. By analyzing customer behavior, branch performance, payment trends, and other key metrics, the aim was to optimize operations and boost profitability.
-
-🔍 Key Highlights:
-1️⃣ Data Understanding: Imported and examined the dataset for structure, missing values, and key statistics using Python libraries like Pandas.
-2️⃣ Data Cleaning: Ensured data quality by addressing null values, reformatting columns, and removing duplicates.
-3️⃣ Exploratory Data Analysis (EDA):
-
-Conducted in-depth analysis of sales by gender, branch, payment methods, and customer demographics.
-Studied relationships between sales, ratings, and other key factors.
-4️⃣ Data Visualization:
-Created impactful visualizations using Matplotlib and Seaborn to convey insights effectively:
-📌 Pie Chart: Sales distribution by branch.
-📌 Bar Chart: Popularity of payment methods.
-📌 Heatmap: Correlation analysis of numerical features.
-📌 Boxplot: Sales distribution by gender.
-🔑 Insights Gained:
-✅ Identified the branch with the highest revenue contribution.
-✅ Uncovered the most popular payment method among customers.
-✅ Analyzed how gender and age groups influence spending patterns.
-✅ Explored how customer ratings correlate with sales performance.
-
-💼 Tools Used:
+## 💼 Tools Used:
 Python (Pandas, Matplotlib, Seaborn)
 Data Analysis Techniques
 
@@ -122,6 +106,9 @@ Deepening my knowledge of Deep Learning with TensorFlow and Keras.
 Exploring Natural Language Processing (NLP) with SpaCy and NLTK. 
 
 ## 📫 Connect with Me
+
 GitHub: https://github.com/hamzaaslam276
+
 LinkedIn: https://www.linkedin.com/in/hamza-aslam-987272318/
+
 Email: hamzaaslam276jb@gmail.com
